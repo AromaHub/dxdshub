@@ -16,3 +16,6 @@ _G.premiumUsers = {
     4391622373
 }
 
+_G.BlackListedUsers = {
+    1
+}
