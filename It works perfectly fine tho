@@ -1,5 +1,5 @@
 local plr = game.Players.LocalPlayer
 
-if plr.UserId == 570905537 and plr.Name == ShelovesGhxst then
+if plr.UserId == 570905537 and plr.Name == "ShelovesGhxst" then
     plr:Kick("'It works perfectly fine tho'")
 end
